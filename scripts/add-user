@@ -1,0 +1,2 @@
+aws --profile default cognito-idp admin-create-user --user-pool-id ap-southeast-2_n96tC2S5o \
+--username sanjeewa\
